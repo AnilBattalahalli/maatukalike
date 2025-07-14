@@ -994,7 +994,7 @@ def main():
     
     initialize_game()
     
-    st.markdown('<h1 class="game-title">Dollar Store Duolingo by Anil</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="game-title">ಮಾತು ಕಲಿಕೆ by Anil</h1>', unsafe_allow_html=True)
     
     # Instructions
     st.markdown('''
