@@ -310,8 +310,8 @@ if "answered_correctly" not in st.session_state:
 
 question = st.session_state.current_question
 sentence = question["german_sentence"]
-options = question["verb_options"]
-correct = question["correct_verb"]
+options = question["options"]
+correct = question["correct_option"]
 translation = question["english_translation"]
 
 st.title("ಮಾತು ಕಲಿಕೆ by Anil")
