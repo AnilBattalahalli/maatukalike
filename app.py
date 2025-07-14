@@ -4,64 +4,144 @@ import random
 # Your German quiz data
 quiz_data = [
     {
-        "german_sentence": "Ich _________ jeden Morgen Kaffee.",
-        "verb_options": ["trinke", "essen", "spiele", "lesen", "schlafen"],
-        "correct_verb": "trinke",
-        "english_translation": "I drink coffee every morning."
+        "german_sentence": "Ich sehe _________ Ball.",
+        "options": ["den", "dem", "der", "das", "die"],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I see the ball."
     },
     {
-        "german_sentence": "Sie _________ heute Abend ein Buch.",
-        "verb_options": ["lesen", "schreiben", "hören", "sehen", "sprechen"],
-        "correct_verb": "lesen",
-        "english_translation": "She reads a book tonight."
+        "german_sentence": "Er hilft _________ Frau.",
+        "options": ["der", "die", "dem", "den", "das"],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "He helps the woman."
     },
     {
-        "german_sentence": "Wir _________ ins Kino am Wochenende.",
-        "verb_options": ["gehen", "bleiben", "kommen", "fahren", "arbeiten"],
-        "correct_verb": "gehen",
-        "english_translation": "We go to the cinema on the weekend."
+        "german_sentence": "_________ Kind spielt im Garten.",
+        "options": ["Das", "Dem", "Den", "Die", "Der"],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The child is playing in the garden."
     },
     {
-        "german_sentence": "Er _________ Deutsch sehr gut.",
-        "verb_options": ["spricht", "lernt", "versteht", "schreibt", "hört"],
-        "correct_verb": "spricht",
-        "english_translation": "He speaks German very well."
+        "german_sentence": "Sie ruft _________ Bruder an.",
+        "options": ["den", "dem", "der", "die", "das"],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She calls her brother."
     },
     {
-        "german_sentence": "Du _________ müde nach der Arbeit.",
-        "verb_options": ["bist", "hast", "seid", "sind", "ist"],
-        "correct_verb": "bist",
-        "english_translation": "You are tired after work."
+        "german_sentence": "Wir geben _________ Mädchen ein Geschenk.",
+        "options": ["dem", "den", "die", "das", "der"],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "We give the girl a gift."
     },
     {
-        "german_sentence": "Die Kinder _________ im Garten.",
-        "verb_options": ["spielen", "essen", "trinken", "schlafen", "malen"],
-        "correct_verb": "spielen",
-        "english_translation": "The children play in the garden."
+        "german_sentence": "_________ Lehrer erklärt die Aufgabe.",
+        "options": ["Der", "Den", "Dem", "Das", "Die"],
+        "correct_option": "Der",
+        "case": "Nominative",
+        "english_translation": "The teacher explains the task."
     },
     {
-        "german_sentence": "Ich _________ einen Apfel.",
-        "verb_options": ["esse", "trinke", "kaufe", "verkaufe", "schneide"],
-        "correct_verb": "esse",
-        "english_translation": "I eat an apple."
+        "german_sentence": "Er besucht _________ Eltern oft.",
+        "options": ["die", "der", "den", "das", "dem"],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "He visits the parents often."
     },
     {
-        "german_sentence": "Sie _________ Musik.",
-        "verb_options": ["hört", "sieht", "spricht", "liest", "schreibt"],
-        "correct_verb": "hört",
-        "english_translation": "She listens to music."
+        "german_sentence": "Ich danke _________ Mann für die Hilfe.",
+        "options": ["dem", "den", "der", "die", "das"],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "I thank the man for the help."
     },
     {
-        "german_sentence": "Wir _________ in Berlin.",
-        "verb_options": ["wohnen", "arbeiten", "besuchen", "fahren", "leben"],
-        "correct_verb": "wohnen",
-        "english_translation": "We live in Berlin."
+        "german_sentence": "Sie bringt _________ Hund ins Haus.",
+        "options": ["den", "dem", "der", "die", "das"],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She brings the dog into the house."
     },
     {
-        "german_sentence": "Er _________ ein Auto.",
-        "verb_options": ["hat", "ist", "geht", "kommt", "macht"],
-        "correct_verb": "hat",
-        "english_translation": "He has a car."
+        "german_sentence": "_________ Auto ist rot.",
+        "options": ["Das", "Den", "Dem", "Der", "Die"],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The car is red."
+    },
+    {
+        "german_sentence": "Wir helfen _________ Kindern mit den Hausaufgaben.",
+        "options": ["den", "die", "dem", "der", "das"],
+        "correct_option": "den",
+        "case": "Dative",
+        "english_translation": "We help the children with the homework."
+    },
+    {
+        "german_sentence": "Sie kauft _________ Apfel.",
+        "options": ["den", "dem", "der", "die", "das"],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She buys the apple."
+    },
+    {
+        "german_sentence": "_________ Mädchen singt schön.",
+        "options": ["Das", "Der", "Dem", "Den", "Die"],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The girl sings beautifully."
+    },
+    {
+        "german_sentence": "Ich vertraue _________ Freund.",
+        "options": ["dem", "den", "der", "das", "die"],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "I trust the friend."
+    },
+    {
+        "german_sentence": "Sie hört _________ Musik jeden Tag.",
+        "options": ["die", "der", "den", "dem", "das"],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "She listens to music every day."
+    },
+    {
+        "german_sentence": "_________ Mann ist müde.",
+        "options": ["Der", "Den", "Dem", "Die", "Das"],
+        "correct_option": "Der",
+        "case": "Nominative",
+        "english_translation": "The man is tired."
+    },
+    {
+        "german_sentence": "Ich schicke _________ Frau eine E-Mail.",
+        "options": ["der", "die", "dem", "das", "den"],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "I send the woman an email."
+    },
+    {
+        "german_sentence": "Er liebt _________ Katze.",
+        "options": ["die", "der", "das", "dem", "den"],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "He loves the cat."
+    },
+    {
+        "german_sentence": "_________ Kinder spielen draußen.",
+        "options": ["Die", "Der", "Dem", "Den", "Das"],
+        "correct_option": "Die",
+        "case": "Nominative",
+        "english_translation": "The children are playing outside."
+    },
+    {
+        "german_sentence": "Wir gratulieren _________ Lehrer zum Erfolg.",
+        "options": ["dem", "der", "den", "die", "das"],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "We congratulate the teacher on the success."
     }
 ]
 
