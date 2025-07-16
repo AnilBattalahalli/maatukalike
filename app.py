@@ -199,7 +199,7 @@ shuffled_options = options.copy()
 random.shuffle(shuffled_options)
 
 # Render option buttons
-for opt in options:
+for opt in shuffled_options:
     if opt in st.session_state.incorrect_guesses:
         # Wrong answer - show with X
         st.markdown("<div class='option wrong'>", unsafe_allow_html=True)
