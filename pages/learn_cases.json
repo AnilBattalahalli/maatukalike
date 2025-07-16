@@ -1,0 +1,1198 @@
+[
+    {
+        "german_sentence": "Ich sehe _________ Ball.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "das",
+            "die"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I see the ball."
+    },
+    {
+        "german_sentence": "Er hilft _________ Frau.",
+        "options": [
+            "der",
+            "die",
+            "dem",
+            "den",
+            "das"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "He helps the woman."
+    },
+    {
+        "german_sentence": "_________ Kind spielt im Garten.",
+        "options": [
+            "Das",
+            "Dem",
+            "Den",
+            "Die",
+            "Der"
+        ],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The child is playing in the garden."
+    },
+    {
+        "german_sentence": "Sie ruft _________ Bruder an.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She calls her brother."
+    },
+    {
+        "german_sentence": "Wir geben _________ Mädchen ein Geschenk.",
+        "options": [
+            "dem",
+            "den",
+            "die",
+            "das",
+            "der"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "We give the girl a gift."
+    },
+    {
+        "german_sentence": "_________ Lehrer erklärt die Aufgabe.",
+        "options": [
+            "Der",
+            "Den",
+            "Dem",
+            "Das",
+            "Die"
+        ],
+        "correct_option": "Der",
+        "case": "Nominative",
+        "english_translation": "The teacher explains the task."
+    },
+    {
+        "german_sentence": "Er besucht _________ Eltern oft.",
+        "options": [
+            "die",
+            "der",
+            "den",
+            "das",
+            "dem"
+        ],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "He visits the parents often."
+    },
+    {
+        "german_sentence": "Ich danke _________ Mann für die Hilfe.",
+        "options": [
+            "dem",
+            "den",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "I thank the man for the help."
+    },
+    {
+        "german_sentence": "Sie bringt _________ Hund ins Haus.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She brings the dog into the house."
+    },
+    {
+        "german_sentence": "_________ Auto ist rot.",
+        "options": [
+            "Das",
+            "Den",
+            "Dem",
+            "Der",
+            "Die"
+        ],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The car is red."
+    },
+    {
+        "german_sentence": "Wir helfen _________ Kindern mit den Hausaufgaben.",
+        "options": [
+            "den",
+            "die",
+            "dem",
+            "der",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Dative",
+        "english_translation": "We help the children with the homework."
+    },
+    {
+        "german_sentence": "Sie kauft _________ Apfel.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "She buys the apple."
+    },
+    {
+        "german_sentence": "_________ Mädchen singt schön.",
+        "options": [
+            "Das",
+            "Der",
+            "Dem",
+            "Den",
+            "Die"
+        ],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The girl sings beautifully."
+    },
+    {
+        "german_sentence": "Ich vertraue _________ Freund.",
+        "options": [
+            "dem",
+            "den",
+            "der",
+            "das",
+            "die"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "I trust the friend."
+    },
+    {
+        "german_sentence": "Sie hört _________ Musik jeden Tag.",
+        "options": [
+            "die",
+            "der",
+            "den",
+            "dem",
+            "das"
+        ],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "She listens to music every day."
+    },
+    {
+        "german_sentence": "_________ Mann ist müde.",
+        "options": [
+            "Der",
+            "Den",
+            "Dem",
+            "Die",
+            "Das"
+        ],
+        "correct_option": "Der",
+        "case": "Nominative",
+        "english_translation": "The man is tired."
+    },
+    {
+        "german_sentence": "Ich schicke _________ Frau eine E-Mail.",
+        "options": [
+            "der",
+            "die",
+            "dem",
+            "das",
+            "den"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "I send the woman an email."
+    },
+    {
+        "german_sentence": "Er liebt _________ Katze.",
+        "options": [
+            "die",
+            "der",
+            "das",
+            "dem",
+            "den"
+        ],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "He loves the cat."
+    },
+    {
+        "german_sentence": "_________ Kinder spielen draußen.",
+        "options": [
+            "Die",
+            "Der",
+            "Dem",
+            "Den",
+            "Das"
+        ],
+        "correct_option": "Die",
+        "case": "Nominative",
+        "english_translation": "The children are playing outside."
+    },
+    {
+        "german_sentence": "Wir gratulieren _________ Lehrer zum Erfolg.",
+        "options": [
+            "dem",
+            "der",
+            "den",
+            "die",
+            "das"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "We congratulate the teacher on the success."
+    },
+    {
+        "german_sentence": "Ich sehe ________ jeden Tag.",
+        "options": [
+            "dich",
+            "dir",
+            "du",
+            "dein",
+            "euch"
+        ],
+        "correct_option": "dich",
+        "case": "Accusative",
+        "english_translation": "I see you every day."
+    },
+    {
+        "german_sentence": "Kannst du ________ helfen?",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "Can you help me?"
+    },
+    {
+        "german_sentence": "Ich liebe ________.",
+        "options": [
+            "dich",
+            "dir",
+            "du",
+            "dein",
+            "ihn"
+        ],
+        "correct_option": "dich",
+        "case": "Accusative",
+        "english_translation": "I love you."
+    },
+    {
+        "german_sentence": "Er schenkt ________ ein Buch.",
+        "options": [
+            "ihr",
+            "sie",
+            "ihm",
+            "ihn",
+            "mir"
+        ],
+        "correct_option": "ihr",
+        "case": "Dative",
+        "english_translation": "He gives her a book."
+    },
+    {
+        "german_sentence": "Sie hört ________ nicht.",
+        "options": [
+            "mich",
+            "mir",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mich",
+        "case": "Accusative",
+        "english_translation": "She doesn't hear me."
+    },
+    {
+        "german_sentence": "Ich antworte ________ morgen.",
+        "options": [
+            "dir",
+            "dich",
+            "du",
+            "euch",
+            "mir"
+        ],
+        "correct_option": "dir",
+        "case": "Dative",
+        "english_translation": "I'll answer you tomorrow."
+    },
+    {
+        "german_sentence": "Kannst du ________ verstehen?",
+        "options": [
+            "mich",
+            "mir",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mich",
+        "case": "Accusative",
+        "english_translation": "Can you understand me?"
+    },
+    {
+        "german_sentence": "Der Lehrer erklärt ________ die Aufgabe.",
+        "options": [
+            "uns",
+            "wir",
+            "euch",
+            "ihn",
+            "sie"
+        ],
+        "correct_option": "uns",
+        "case": "Dative",
+        "english_translation": "The teacher explains the task to us."
+    },
+    {
+        "german_sentence": "Ich sehe ________ am Bahnhof.",
+        "options": [
+            "ihn",
+            "ihm",
+            "er",
+            "sie",
+            "ihr"
+        ],
+        "correct_option": "ihn",
+        "case": "Accusative",
+        "english_translation": "I see him at the station."
+    },
+    {
+        "german_sentence": "Sie hilft ________ mit dem Projekt.",
+        "options": [
+            "ihm",
+            "ihn",
+            "er",
+            "sie",
+            "uns"
+        ],
+        "correct_option": "ihm",
+        "case": "Dative",
+        "english_translation": "She helps him with the project."
+    },
+    {
+        "german_sentence": "Ich gebe ________ Frau das Buch.",
+        "options": [
+            "der",
+            "die",
+            "dem",
+            "den",
+            "das"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "I give the woman the book."
+    },
+    {
+        "german_sentence": "Er sieht ________ Hund im Garten.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "He sees the dog in the garden."
+    },
+    {
+        "german_sentence": "Kannst du ________ helfen?",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "Can you help me?"
+    },
+    {
+        "german_sentence": "Ich höre ________ jeden Morgen.",
+        "options": [
+            "sie",
+            "ihr",
+            "ihm",
+            "ihn",
+            "mir"
+        ],
+        "correct_option": "sie",
+        "case": "Accusative",
+        "english_translation": "I hear her every morning."
+    },
+    {
+        "german_sentence": "________ Mann arbeitet in der Schule.",
+        "options": [
+            "Der",
+            "Den",
+            "Dem",
+            "Die",
+            "Das"
+        ],
+        "correct_option": "Der",
+        "case": "Nominative",
+        "english_translation": "The man works at the school."
+    },
+    {
+        "german_sentence": "Wir bringen ________ Kindern Schokolade.",
+        "options": [
+            "den",
+            "die",
+            "dem",
+            "das",
+            "der"
+        ],
+        "correct_option": "den",
+        "case": "Dative",
+        "english_translation": "We bring the children chocolate."
+    },
+    {
+        "german_sentence": "Ich liebe ________.",
+        "options": [
+            "dich",
+            "dir",
+            "dein",
+            "du",
+            "ihm"
+        ],
+        "correct_option": "dich",
+        "case": "Accusative",
+        "english_translation": "I love you."
+    },
+    {
+        "german_sentence": "Er gratuliert ________ Lehrer.",
+        "options": [
+            "dem",
+            "den",
+            "der",
+            "die",
+            "ihm"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "He congratulates the teacher."
+    },
+    {
+        "german_sentence": "Wir sehen ________ Film heute Abend.",
+        "options": [
+            "den",
+            "dem",
+            "das",
+            "die",
+            "der"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "We are watching the film tonight."
+    },
+    {
+        "german_sentence": "Der Hund folgt ________.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "The dog follows me."
+    },
+    {
+        "german_sentence": "Ich habe ________ Idee.",
+        "options": [
+            "eine",
+            "einer",
+            "einem",
+            "eines",
+            "einen"
+        ],
+        "correct_option": "eine",
+        "case": "Accusative",
+        "english_translation": "I have an idea."
+    },
+    {
+        "german_sentence": "Der Junge schenkt ________ Mutter Blumen.",
+        "options": [
+            "der",
+            "dem",
+            "die",
+            "den",
+            "das"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "The boy gives flowers to the mother."
+    },
+    {
+        "german_sentence": "________ Katze schläft den ganzen Tag.",
+        "options": [
+            "Die",
+            "Der",
+            "Das",
+            "Den",
+            "Dem"
+        ],
+        "correct_option": "Die",
+        "case": "Nominative",
+        "english_translation": "The cat sleeps all day."
+    },
+    {
+        "german_sentence": "Er besucht ________ am Wochenende.",
+        "options": [
+            "uns",
+            "wir",
+            "unser",
+            "euch",
+            "sie"
+        ],
+        "correct_option": "uns",
+        "case": "Accusative",
+        "english_translation": "He visits us on the weekend."
+    },
+    {
+        "german_sentence": "Kannst du ________ bitte sagen?",
+        "options": [
+            "mir",
+            "mich",
+            "ihm",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "Can you please tell me?"
+    },
+    {
+        "german_sentence": "________ Mädchen spielt mit dem Ball.",
+        "options": [
+            "Das",
+            "Die",
+            "Der",
+            "Den",
+            "Dem"
+        ],
+        "correct_option": "Das",
+        "case": "Nominative",
+        "english_translation": "The girl is playing with the ball."
+    },
+    {
+        "german_sentence": "Ich suche ________ Schlüssel.",
+        "options": [
+            "den",
+            "dem",
+            "die",
+            "das",
+            "der"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I am looking for the key."
+    },
+    {
+        "german_sentence": "Der Lehrer erklärt ________ die Aufgabe.",
+        "options": [
+            "uns",
+            "wir",
+            "euch",
+            "sie",
+            "ihn"
+        ],
+        "correct_option": "uns",
+        "case": "Dative",
+        "english_translation": "The teacher explains the task to us."
+    },
+    {
+        "german_sentence": "Ich kenne ________ gut.",
+        "options": [
+            "ihn",
+            "ihm",
+            "er",
+            "sie",
+            "ihr"
+        ],
+        "correct_option": "ihn",
+        "case": "Accusative",
+        "english_translation": "I know him well."
+    },
+    {
+        "german_sentence": "Sie hilft ________ oft mit Mathe.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "She often helps me with math."
+    },
+    {
+        "german_sentence": "Es geht ________ gut.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dich",
+            "du"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "I am doing well."
+    },
+    {
+        "german_sentence": "Ich antworte ________ sofort.",
+        "options": [
+            "dir",
+            "dich",
+            "du",
+            "dein",
+            "euch"
+        ],
+        "correct_option": "dir",
+        "case": "Dative",
+        "english_translation": "I answer you immediately."
+    },
+    {
+        "german_sentence": "Wir danken ________ Lehrer.",
+        "options": [
+            "dem",
+            "den",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "We thank the teacher."
+    },
+    {
+        "german_sentence": "Die Musik gefällt ________ nicht.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "du"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "I don't like the music."
+    },
+    {
+        "german_sentence": "Das Buch gehört ________ Kind.",
+        "options": [
+            "dem",
+            "den",
+            "das",
+            "der",
+            "die"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "The book belongs to the child."
+    },
+    {
+        "german_sentence": "Heute fehlt ________ Freundin.",
+        "options": [
+            "der",
+            "die",
+            "dem",
+            "den",
+            "das"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "The girlfriend is missing today."
+    },
+    {
+        "german_sentence": "Der Hund folgt ________.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "The dog follows me."
+    },
+    {
+        "german_sentence": "Dein Name fällt ________ nicht ein.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "I can't recall your name."
+    },
+    {
+        "german_sentence": "Das Experiment gelingt ________.",
+        "options": [
+            "uns",
+            "wir",
+            "euch",
+            "sie",
+            "ihn"
+        ],
+        "correct_option": "uns",
+        "case": "Dative",
+        "english_translation": "We succeed at the experiment."
+    },
+    {
+        "german_sentence": "Wir gratulieren ________ zum Geburtstag.",
+        "options": [
+            "dir",
+            "dich",
+            "du",
+            "euch",
+            "ihm"
+        ],
+        "correct_option": "dir",
+        "case": "Dative",
+        "english_translation": "We congratulate you on your birthday."
+    },
+    {
+        "german_sentence": "Ich helfe ________ Schüler.",
+        "options": [
+            "dem",
+            "den",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "I help the student."
+    },
+    {
+        "german_sentence": "Das Kleid passt ________ nicht.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "The dress doesn't fit me."
+    },
+    {
+        "german_sentence": "Dieses Wetter schadet ________ Kindern.",
+        "options": [
+            "den",
+            "die",
+            "dem",
+            "der",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Dative",
+        "english_translation": "This weather harms the children."
+    },
+    {
+        "german_sentence": "Die Suppe schmeckt ________ gut.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "The soup tastes good to me."
+    },
+    {
+        "german_sentence": "Ich rate ________ zur Vorsicht.",
+        "options": [
+            "dir",
+            "dich",
+            "dein",
+            "du",
+            "ihr"
+        ],
+        "correct_option": "dir",
+        "case": "Dative",
+        "english_translation": "I advise you to be careful."
+    },
+    {
+        "german_sentence": "Sie ähnelt ________ Mutter sehr.",
+        "options": [
+            "der",
+            "die",
+            "dem",
+            "den",
+            "das"
+        ],
+        "correct_option": "der",
+        "case": "Dative",
+        "english_translation": "She resembles the mother a lot."
+    },
+    {
+        "german_sentence": "Ich begegne ________ auf der Straße.",
+        "options": [
+            "ihm",
+            "ihn",
+            "er",
+            "sie",
+            "uns"
+        ],
+        "correct_option": "ihm",
+        "case": "Dative",
+        "english_translation": "I meet him on the street."
+    },
+    {
+        "german_sentence": "Er dient ________ Land mit Stolz.",
+        "options": [
+            "dem",
+            "der",
+            "den",
+            "das",
+            "die"
+        ],
+        "correct_option": "dem",
+        "case": "Dative",
+        "english_translation": "He serves the country with pride."
+    },
+    {
+        "german_sentence": "Ich vertraue ________.",
+        "options": [
+            "dir",
+            "dich",
+            "du",
+            "dein",
+            "ihm"
+        ],
+        "correct_option": "dir",
+        "case": "Dative",
+        "english_translation": "I trust you."
+    },
+    {
+        "german_sentence": "Er sagt ________ die Wahrheit.",
+        "options": [
+            "mir",
+            "mich",
+            "ich",
+            "dir",
+            "dich"
+        ],
+        "correct_option": "mir",
+        "case": "Dative",
+        "english_translation": "He tells me the truth."
+    },
+    {
+        "german_sentence": "Ich habe ________ Hund gesehen.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I saw the dog."
+    },
+    {
+        "german_sentence": "Wir benutzen ________ Computer jeden Tag.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "das",
+            "die"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "We use the computer every day."
+    },
+    {
+        "german_sentence": "Er bezahlt ________.",
+        "options": [
+            "mich",
+            "mir",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mich",
+        "case": "Accusative",
+        "english_translation": "He pays me."
+    },
+    {
+        "german_sentence": "Ich lade ________ Freund zur Party ein.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I invite the friend to the party."
+    },
+    {
+        "german_sentence": "Kannst du ________ bitte etwas fragen?",
+        "options": [
+            "mich",
+            "mir",
+            "ich",
+            "dich",
+            "dir"
+        ],
+        "correct_option": "mich",
+        "case": "Accusative",
+        "english_translation": "Can you please ask me something?"
+    },
+    {
+        "german_sentence": "Ich finde ________ Film langweilig.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "das",
+            "die"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I find the movie boring."
+    },
+    {
+        "german_sentence": "Es gibt ________ Apfel im Korb.",
+        "options": [
+            "einen",
+            "einem",
+            "eines",
+            "eine",
+            "ein"
+        ],
+        "correct_option": "einen",
+        "case": "Accusative",
+        "english_translation": "There is an apple in the basket."
+    },
+    {
+        "german_sentence": "Ich höre ________ nicht gut.",
+        "options": [
+            "dich",
+            "dir",
+            "du",
+            "dein",
+            "euch"
+        ],
+        "correct_option": "dich",
+        "case": "Accusative",
+        "english_translation": "I can't hear you well."
+    },
+    {
+        "german_sentence": "Ich kenne ________ Mann dort.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I know the man over there."
+    },
+    {
+        "german_sentence": "Wir lernen ________ Wort.",
+        "options": [
+            "das",
+            "dem",
+            "den",
+            "die",
+            "der"
+        ],
+        "correct_option": "das",
+        "case": "Accusative",
+        "english_translation": "We are learning the word."
+    },
+    {
+        "german_sentence": "Sie liest ________ Buch.",
+        "options": [
+            "das",
+            "dem",
+            "den",
+            "die",
+            "der"
+        ],
+        "correct_option": "das",
+        "case": "Accusative",
+        "english_translation": "She reads the book."
+    },
+    {
+        "german_sentence": "Ich liebe ________.",
+        "options": [
+            "dich",
+            "dir",
+            "du",
+            "dein",
+            "ihn"
+        ],
+        "correct_option": "dich",
+        "case": "Accusative",
+        "english_translation": "I love you."
+    },
+    {
+        "german_sentence": "Wir machen ________ Fehler.",
+        "options": [
+            "einen",
+            "einem",
+            "eine",
+            "eines",
+            "ein"
+        ],
+        "correct_option": "einen",
+        "case": "Accusative",
+        "english_translation": "We make a mistake."
+    },
+    {
+        "german_sentence": "Ich nehme ________ Tasche mit.",
+        "options": [
+            "die",
+            "der",
+            "das",
+            "dem",
+            "den"
+        ],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "I'm taking the bag with me."
+    },
+    {
+        "german_sentence": "Die Kinder spielen ________ Ball.",
+        "options": [
+            "den",
+            "dem",
+            "das",
+            "die",
+            "der"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "The children are playing with the ball."
+    },
+    {
+        "german_sentence": "Das Baby stört ________ nicht.",
+        "options": [
+            "mich",
+            "mir",
+            "ich",
+            "uns",
+            "wir"
+        ],
+        "correct_option": "mich",
+        "case": "Accusative",
+        "english_translation": "The baby doesn't disturb me."
+    },
+    {
+        "german_sentence": "Ich suche ________ Schlüssel.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "die",
+            "das"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I'm looking for the key."
+    },
+    {
+        "german_sentence": "Wir besuchen ________ Oma am Wochenende.",
+        "options": [
+            "die",
+            "der",
+            "das",
+            "dem",
+            "den"
+        ],
+        "correct_option": "die",
+        "case": "Accusative",
+        "english_translation": "We're visiting grandma this weekend."
+    },
+    {
+        "german_sentence": "Ich treffe ________ später im Café.",
+        "options": [
+            "sie",
+            "ihr",
+            "ihm",
+            "ihn",
+            "uns"
+        ],
+        "correct_option": "sie",
+        "case": "Accusative",
+        "english_translation": "I'll meet her later at the café."
+    },
+    {
+        "german_sentence": "Ich esse ________ Apfel.",
+        "options": [
+            "den",
+            "dem",
+            "der",
+            "das",
+            "die"
+        ],
+        "correct_option": "den",
+        "case": "Accusative",
+        "english_translation": "I'm eating the apple."
+    },
+    {
+        "german_sentence": "Sie trinkt ________ Wasser schnell.",
+        "options": [
+            "das",
+            "der",
+            "den",
+            "dem",
+            "die"
+        ],
+        "correct_option": "das",
+        "case": "Accusative",
+        "english_translation": "She drinks the water quickly."
+    },
+    {
+        "german_sentence": "Ich brauche ________ Hilfe.",
+        "options": [
+            "deine",
+            "deiner",
+            "deinem",
+            "deinen",
+            "dein"
+        ],
+        "correct_option": "deine",
+        "case": "Accusative",
+        "english_translation": "I need your help."
+    }
+]
